@@ -1,0 +1,84 @@
+body {
+    padding: 50px;
+    background-color: aquamarine;
+    background-image: linear-gradient(oldlace, aquamarine, darkcyan);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+
+header {
+    text-align: center;
+}
+
+
+nav > ul > li {
+    display: flex;
+    justify-content: center;
+}
+
+nav > ul > li > a {
+    padding: 20px;
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+    font-size: 0.8em;
+    align-items: center;
+    display: flex;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav > ul > li > a :hover {
+    background-color: darkcyan;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.flex-box {
+    height: 250px;
+    width: 150px;
+    background-color: lightseagreen;
+    background-image: radial-gradient(aquamarine, lightseagreen);
+    border-radius: 15px;
+    padding: 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.shadow {
+    box-shadow: 10px 10px mediumaquamarine;
+}
+
+.flex-box:hover {
+    background-color: mediumturquoise;
+    background-image: linear-gradient(darkslategray, darkcyan, mediumturquoise, oldlace);
+    padding: 50px;
+}
+
+.jellyfish {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
+
+.whale-shark {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
+
+.manta-ray {
+    width: 80px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
+
