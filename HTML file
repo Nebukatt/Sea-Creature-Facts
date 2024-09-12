@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sea Creatures Fun Facts</title>
+    <link rel="stylesheet" href="apply-knowledge.css">
+</head>
+<body>
+    <header>
+        <h1 id="Home">Facts About Sea Creatures</h1>
+        <nav>
+            <ul class="flex">
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#Sharks">Sharks</a></li>
+                <li><a href="#Whales and Mammals">Whales and Mammals</a></li>
+                <li><a href="#Fish">Fish</a></li>
+                <li><a href="#Cephalopods">Cephalopods</a></li>
+                <li><a href="#Marine Reptiles">Marine Reptiles</a></li>
+                <li><a href="#Marine Invertebrates">Marine Invertebrates</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="flex-container">
+        <div class="flex-box shadow">
+            <img class="whale-shark" src="https://www.diveworldwide.com/images/categories/latin_america_galapagos_whale_shark_square.jpg">
+            <p><strong>Whale sharks</strong> are the largest fish in the world, growing up to 40 feet (12 meters) long or more. Despite their massive size, they are gentle giants that primarily feed on plankton and small fish, filtering them through their gill rakers.</p>
+        </div>
+        <div class="flex-box shadow">
+            <img class="jellyfish" src="https://images.fineartamerica.com/images-medium-large-5/1-jellyfish-square-ulrich-schade.jpg" alt="jellyfish">
+            <p><strong>Jellyfish</strong> have been around for more than 500 million years, making them one of the oldest living creatures on Earth. Their simple body structure has allowed them to thrive in various marine environments for hundreds of millions of years, predating dinosaurs by a significant margin.</p>
+        </div>
+        <div class="flex-box shadow">
+            <img class="manta-ray" src="https://i.natgeofe.com/n/87b2f9ab-b63c-40a3-8ae7-7477b9326b14/NationalGeographic_2728100_square.jpg" alt="manta ray">
+            <p><strong>Manta rays</strong> have the largest brains of any fish species, with a high brain-to-body ratio compared to most other fish. This large brain size is thought to be related to their complex behaviors and social interactions, and they are known for their intelligence and problem-solving abilities.</p>
+        </div>
+    </div>
+    <h2 id="Sharks">Sharks</h2>
+    <p><strong>Great white sharks</strong> can detect a single drop of blood in 25 gallons (about 95 liters) of water. Their highly sensitive olfactory system allows them to sense even the smallest traces of blood from a significant distance, aiding them in locating prey.</p>
+    <p><strong>Hammerhead sharks</strong> have a unique, T-shaped head called a cephalofoil, which enhances their sensory perception. This distinct head shape improves their ability to detect electrical fields produced by prey and provides a wider visual field, making it easier for them to spot potential prey and navigate their environment.</p>
+    <p><strong>Nurse sharks</strong> have the ability to "suck" their prey using a specialized mouth structure. They use their strong, suction-like jaws to feed on bottom-dwelling creatures such as crustaceans and small fish. This feeding behavior is particularly effective for extracting prey from crevices in the ocean floor.</p>
+    <p><strong>Zebra sharks</strong>, also known as <strong>leopard sharks</strong>, have a distinctive pattern of stripes when they are young, which fades into a more spotted pattern as they mature. This change in coloration helps them blend into different environments throughout their life stages, providing camouflage from predators and enhancing their hunting strategies.</p>
+    <p><strong>Tiger sharks</strong> are known for their diverse diet and are often referred to as "garbage cans of the sea" because they eat a wide variety of prey, including fish, squid, sea turtles, birds, and even non-food items like license plates and tires. This opportunistic feeding behavior is partly due to their large and powerful jaws, which can crush hard shells and bones.</p>
+    <h2 id="Whales and Mammals">Whales and Mammals</h2>
+    <p><strong>Orcas</strong>, also known as <strong>killer whales</strong>, are highly intelligent and social animals known for their complex hunting techniques and sophisticated communication. They live in tight-knit family groups called pods and use a variety of vocalizations and echolocation to coordinate hunting and maintain social bonds.</p>
+    <p><strong>Blue whales</strong> are the largest animals ever known to have lived on Earth, reaching lengths of up to 100 feet (30 meters) and weights of up to 200 tons (180 metric tonnes). Despite their massive size, their diet primarily consists of tiny krill, which they consume in enormous quantities—up to 4 tons (3.6 metric tonnes) a day during feeding season.</p>
+    <p><strong>Dolphins</strong> use a technique called "bubble net feeding" to catch prey. They create a spiral of bubbles to corral fish into a tight area, making it easier to capture them. This cooperative hunting strategy showcases their advanced problem-solving skills and teamwork.</p>
+    <p><strong>Otters</strong> Otters have a special adaptation for handling their food: they use tools! <strong>Sea otters</strong> are known to use rocks and other hard objects to crack open shellfish and clams. They have a favorite "tool" rock that they keep in a loose pocket of skin under their forearm, showcasing their problem-solving abilities and dexterity.</p>
+    <h2 id="Fish">Fish</h2>
+    <p><strong>Swordfish</strong> have a distinctive, long, flattened bill that they use to slash at and stun their prey. This bill is not just for show; it helps them catch fast-moving fish and squid by making their hunting more effective and efficient.</p>
+    <p><strong>Stingrays</strong> have a specialized, venomous spine on their tails that they use for defense. This spine can deliver a painful sting if the ray feels threatened. Despite this defense mechanism, stingrays are generally gentle and prefer to avoid confrontation with humans.</p>
+    <p><strong>Clownfish</strong> have a unique symbiotic relationship with sea anemones. They are immune to the stinging tentacles of sea anemones, which provide them with protection from predators. In return, clownfish clean the anemones and provide them with food scraps, creating a mutually beneficial partnership.</p>
+    <p><strong>Moray eels</strong> have a unique set of jaws that includes not just their main jaws but also a second set of jaws called pharyngeal jaws located in their throat. These pharyngeal jaws help them grip and pull prey into their mouths, allowing them to consume a variety of marine animals with greater efficiency.</p>
+    <p><strong>Electric eels</strong> can generate powerful electric shocks of up to 600 volts, which they use for hunting, navigation, and self-defense. They have specialized electric organs that produce these shocks, allowing them to stun prey and navigate through murky waters.</p>
+    <p><strong>Seahorses</strong> are the only fish species where the head is oriented vertically rather than horizontally. This unique posture, combined with their small, finless bodies and prehensile tails, allows them to anchor themselves to seaweed and corals, helping them stay in place and avoid strong currents</p>
+    <h2 id="Cephalopods">Cephalopods</h2>
+    <p><strong>Octopuses</strong> have three hearts and blue blood. Two of the hearts pump blood through the gills, where it picks up oxygen, while the third heart pumps oxygenated blood to the rest of the body. Their blue blood is due to a copper-based molecule called hemocyanin, which is more efficient than hemoglobin in cold, low-oxygen environments.</p>
+    <p><strong>The giant Pacific octopus</strong> is the largest octopus species, with some individuals reaching up to 16 feet (5 meters) across their arms and weighing around 110 pounds (50 kilograms). They are known for their remarkable problem-solving skills and ability to escape from enclosures, often demonstrating incredible dexterity and intelligence.</p>
+    <h2 id="Marine Reptiles">Marine Reptiles</h2>
+    <p><strong>Sea turtles</strong> have remarkable navigational skills and can travel thousands of miles across oceans. They use the Earth's magnetic field to navigate, a process known as geomagnetic navigation. This ability allows them to return to the same beaches where they were born to lay their eggs, even after years of being at sea.</p>
+    <h2 id="Marine Invertebrates">Marine Invertebrates</h2>
+    <p><strong>Sea urchins</strong> have a unique ability to regenerate lost spines and body parts. If an urchin loses a spine due to damage or predation, it can grow a new one to replace it. This regenerative capability helps them survive in their often harsh marine environments.</p>
+    <p><strong>Sea anemones</strong> have stinging cells called nematocysts that they use to capture and immobilize their prey. These cells are located on their tentacles and release toxins to paralyze small fish and invertebrates, which they then bring to their mouth for feeding.</p>
+    <p><strong>Sea bunnies</strong> are a type of sea slug, specifically a species of Jorunna parva. They are named for their fluffy, bunny-like appearance, which is due to their tiny, hair-like structures called caryophyllidia. These structures help protect them and give them their distinctive, adorable look.</p>
+    <p><strong>Sea cucumbers</strong> play a crucial role in the marine ecosystem by helping to recycle nutrients. They feed on sediment on the ocean floor, digesting organic matter and excreting it as nutrient-rich waste. This process helps to maintain healthy, balanced marine environments by enhancing soil fertility and promoting the growth of other marine organisms.</p>
+</body>
+</html>
